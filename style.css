@@ -1,0 +1,14 @@
+.titulo{
+    color: brown;
+    font-style: italic;
+
+}
+
+.imagem{
+    width: 350px;
+}
+.div-todasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+
+}
